@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramadeep Singh and I am currently doing diploma in Computer Information System
-- 👀 I’m interested in Coding and Competitive Programming(Basic)
+- 👀 I’m interested in Coding and Competitive Programming
 - 🌱 I’m currently learning Java and making personal projects in free time
 
 <!---
