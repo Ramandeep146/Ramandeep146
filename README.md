@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ramadeep Singh and I am currently doing diploma in Computer Information System
+- 👋 Hi, I’m Ramadeep Singh and I am a Computer Information Systems graduate from Kwantlen Polytechnic University
 - 👀 I’m interested in Coding and Competitive Programming
-- 🌱 I’m currently learning Java and making personal projects in free time
+- 🌱 I’m currently learning and enhancing my coding skills by making personal projects
 
 <!---
 Ramandeep146/Ramandeep146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
